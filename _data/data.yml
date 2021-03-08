@@ -55,10 +55,21 @@ education:
          - With a view to complete AWS Cloud Practitioner certification in April 2021.
     - degree: BA in Film and Television, 2:1 Hons
       university: University of Nottingham
-      time: 2009 -2013
+      time: 2009 - 2013
       details: |
           - First class independent dissertation in conjunction with the School of Economics; on media rights and distribution in the digital age entitled 'Exploring New Paradigms of Filmed Entertainment Distribution in the Digital Age: The Growth of Netflix (US)'
           - Academic enquiry into screen media texts including locating them within specific historical and social contexts. Additionally, interrogation into cinema and television as art forms and as industries.
+    - degree: A-Levels
+      university: City of Stoke on Trent Sixth Form
+      time: 2006 - 2008
+      details: |
+          - A, B, B
+         
+    - degree: GCSEs
+      university: Wolstanton High School
+      time: 2001 - 2006
+      details: |
+          - 6A*s, 4As, 1B
 
       
 experiences:
@@ -69,38 +80,33 @@ experiences:
           - Scheduled and hosted remote, development writer's rooms for new comedy project.
           - Generated extensive research document for head writer with findings from a range of primary and secondary sources.
           - Contributed plot points and findings from research during live writer's rooms when relevant.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Compliance Coordinator & Assistant Editor
+      time: March 2019 - September 2020
+      company: Global Eagle Entertainment, Manchester
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Coordinated & motivated team to ensure large volumes of media were edited, compliant and encoded to strict airline cycle deadlines.
+          - Worked closely with several airline representatives to ensure media guidelines were in line with stakeholders' cultural expectations.
+          - Generated training materials for compliance editors and led group & one to one training sessions periodically to ensure team was up to date with client expectations.
+          - Edited & encoded media using Adobe premiere where deadlines warranted.
+    - role: Freelance TV Researcher & Assistant Producer
+      time: 2014 - 2019
+      company: Various, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed a career as a freelance Researcher & sometime Assistant Producer for television, amassing over 40 broadcast credits.  During this period I worked for a range of production companies and broadcasters; including the BBC & UKTV.  Most prominently I worked on 7 individual series of the BAFTA & Emmy Award winning comedy series ‘Taskmaster’ for Avalon Television.  Also worked on series such as ‘The Great British Bake Off’ and its’ American counterpart for ABC Television.
+          - Progressed into senior Researcher role for my sixth and seventh series on Taskmaster, no Assistant Producers were on the team during these series.
+          - Acted as sole point of contact with legal team to ensure compliance and well organised paper trail for releases.
+          - Booked and coordinated contributors, researched and secured locations for filming and equipment hire.
+          - Generated and produced tasks/games whilst adhering to strict budgetary constraints.
+          - Delegated duties and coordinated a small team of production assistants in order to prep for and produce quality days of filming.
+          - Wrote broadcast quality links and made editorial decisions where relevant.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some examples of the work I have completed during hand-on labs as part of the AWS re/Start program.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Python - Functions with the Caesar Cipher
+        link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/Functions-CaesarCipher"
+        tagline: "Using Python for the first time.  Defining a function and running a Caesar Cipher"
 
       - title: DevStudio
         link: "#"
