@@ -57,18 +57,12 @@ education:
       university: University of Nottingham
       time: 2009 -2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
           - First class independent dissertation in conjunction with the School of Economics; on media rights and distribution in the digital age entitled 'Exploring New Paradigms of Filmed Entertainment Distribution in the Digital Age: The Growth of Netflix (US)'
           - Academic enquiry into screen media texts including locating them within specific historical and social contexts. Additionally, interrogation into cinema and television as art forms and as industries.
     - degree: A-Levels: A,B,B
       university: City of Stoke on Trent Sixth Form
       time: 2006 - 2008
-      details: |
-       
+      details: |       
     - degree: GCSEs: 6A*s, 4As, 1B
       university: Wolstanton High School
       time: 2001 - 2006
