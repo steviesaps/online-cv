@@ -119,7 +119,7 @@ projects:
 
       - title: Using SQL Query
         link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL%20Select%20Query%20Lab.PNG"
-        tagline: "An Example of using MySQL to manage a relational database, using the SELECT query function.
+        tagline: "An Example of using MySQL to manage a relational database, using the SELECT query function."
 
       
 
