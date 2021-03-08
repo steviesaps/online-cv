@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Stevie Saponja
@@ -59,14 +59,7 @@ education:
       details: |
           - First class independent dissertation in conjunction with the School of Economics; on media rights and distribution in the digital age entitled 'Exploring New Paradigms of Filmed Entertainment Distribution in the Digital Age: The Growth of Netflix (US)'
           - Academic enquiry into screen media texts including locating them within specific historical and social contexts. Additionally, interrogation into cinema and television as art forms and as industries.
-    - degree: A-Levels: A,B,B
-      university: City of Stoke on Trent Sixth Form
-      time: 2006 - 2008
-      details: |       
-    - degree: GCSEs: 6A*s, 4As, 1B
-      university: Wolstanton High School
-      time: 2001 - 2006
-      details: |
+
       
 experiences:
     - role: Lead Researcher (Freelance)
