@@ -35,12 +35,33 @@ career-profile:
     summary: |
       I have a professional background based in media, having previously worked in broadcast TV production in London, followed by a stint in post-Production - onboarding media to aircraft.  
       Perhaps most notably, I spent 3 and half years working on 7 series of the BAFTA winning format 'Taskmaster', progressing into a senior Researcher role.  
-      I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as a problem solver and an integral team member.        Based in North Staffs, commutable examples: 
+      I'm now looking to transform my career into something with longevity that is constantly challenging and makes the most of my experiences working as a problem solver and an integral team member.        
+      I'm based in North Staffs, commutable examples are: 
       - Manchester
       - Birmingham
       - Nottingham
 
 education:
+    - degree: AWS re/Start
+      university: TechTalent, Birmingham
+      time: February 2021 - April 2021
+      details: |
+        A full time, 12 week, classroom-based training program with an introduction to fundamental IT skills along with in-demand technical cloud skills.
+         - Introductions to Linux OS, Python Language.
+         - Introduction to SQL and utilisation of SQL queries.
+         - Introduction to the AWS infrastruction and applications
+         - With a view to complete AWS Cloud Practitioner certification in April 2021.
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
