@@ -132,6 +132,10 @@ projects:
       - title: Using SQL Queries - RANK
         link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL-RANK1.PNG"
         tagline: "Utlising RANK to organise data for ease of analysis."
+        
+      - title: Using SQL - JOIN
+        link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL-Join.PNG"
+        tagline: "Using JOIN, concatenation & order by to better display data from two tables."
 
       
 
