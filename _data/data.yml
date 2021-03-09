@@ -147,6 +147,9 @@ skills:
 
       - name: Avid Media Composer
         level: 95%
+        
+      - name: MySQL
+        level: 40%
 
       - name: Linux OS
         level: 25%
