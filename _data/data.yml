@@ -43,7 +43,8 @@ career-profile:
       - Birmingham
       - Nottingham
       
-      However, I'm also extremely happy to work remotely with proven experience of this.
+      However, I'm also extremely happy to work remotely with, proven experience of this.
+      
       Please see my LinkedIn profile, linked on the right, for a more in depth look at my work history and voluntary experiences.
       
 
@@ -123,6 +124,10 @@ projects:
       - title: Using SQL Query
         link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL%20Select%20Query%20Lab.PNG"
         tagline: "An Example of using MySQL to manage a relational database, using the SELECT query function."
+        
+      - title: Using SQL Queries - Substrings and Trim
+        link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL%20Query%20Substring3%20-%20Trim.PNG"
+        tagline: "An Example of using MySQL to manage a relational database, using the TRIM & substring query functions to return results of a certain character length."
 
       
 
