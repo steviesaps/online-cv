@@ -128,6 +128,10 @@ projects:
       - title: Using SQL Queries - Substrings and Trim
         link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL%20Query%20Substring3%20-%20Trim.PNG"
         tagline: "An Example of using MySQL to manage a relational database, using the TRIM & substring query functions to return results of a certain character length."
+       
+      - title: Using SQL Queries - RANK
+        link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL-RANK1.PNG"
+        tagline: "Utlising RANK to organise data for ease of analysis."
 
       
 
