@@ -137,7 +137,9 @@ projects:
         link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL-Join.PNG"
         tagline: "Using JOIN, concatenation & order by to better display data from two tables."
 
-      
+      - title: Using SQL - Transactions
+        link: "https://github.com/steviesaps/steviesaps.github.io/blob/ghpages/SQL-Transaction1.PNG"
+        tagline: "Using Transaction - to remove titles older than 32 months on a tables containing books with their published dates.  (Screenshot before execution)."
 
 
 skills:
