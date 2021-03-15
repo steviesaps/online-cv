@@ -142,30 +142,7 @@ projects:
         tagline: "Using Transaction - to remove titles older than 32 months on a tables containing books with their published dates.  (Screenshot before execution)."
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: MS Office, including intermediate Excel
-        level: 98%
-
-      - name: Research & Reporting
-        level: 98%
-
-      - name: Adobe Creative Suite; Premiere, Photoshop, Lightroom
-        level: 98%
-
-      - name: Avid Media Composer
-        level: 95%
-        
-      - name: MySQL
-        level: 40%
-
-      - name: Linux OS
-        level: 25%
-
-      - name: Python
-        level: 20%
 
 footer: >
     
